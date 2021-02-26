@@ -1,4 +1,4 @@
-return unless defined?(Rack)
+# return unless defined?(Rack)
 
 require "spec_helper"
 
